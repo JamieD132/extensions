@@ -298,3 +298,7 @@ All images in this folder are licensed under the [GNU General Public License ver
 
 ## Lily/Video.svg
  - Created by [@LilyMakesThings](https://github.com/LilyMakesThings) in https://github.com/TurboWarp/extensions/pull/656
+
+## JamieD132/elaruu.svg
+ - Created by @JamieD132
+ - Cat is based on the [default pfp by Scratch](https://uploads.scratch.mit.edu/get_image/user/default_60x60.png)
